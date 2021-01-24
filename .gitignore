@@ -1,3 +1,4 @@
 /node_modules
 /package-lock.json
 /5m_Sales_Records.csv
+/config.env
